@@ -20,5 +20,7 @@
 ##
 <details>
   <summary>More...</summary>
-    <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+    <p align="center">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+</p>
 </details>
