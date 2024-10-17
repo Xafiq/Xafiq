@@ -20,5 +20,5 @@
 ##
 <details>
   <summary>More...</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=f&show_icons=true&count_private=true&theme=dark" />
+    <img src="https://github.com/demartini/demartini/blob/master/code.gif">
 </details>
