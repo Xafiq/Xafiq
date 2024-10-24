@@ -2,12 +2,11 @@
 </picture> </p>
 
 <p align="center">
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png" alt="html5" width="40" height="40"> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png" alt="html5" width="40" height="40"> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" alt="css" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:344/1*tZHcs0d7MAG-BBcjBekZYA.png" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.php.com/" target="_blank" rel="noreferrer"><img src="https://pngimg.com/uploads/php/php_PNG49.png" alt="php" width="40" height="40"/></a>
 </p>
-
 
   <p align="center">
     <a href="https://github.com/Xafiq/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=00FF00&size=40&center=true&vCenter=true&width=800&height=150&lines=HELLO+WORLD!;I'm+Xafiq!;Welcome+to+My+Hacker+Space!;Cybersecurity+Student;@+4Geeks+Academy;Bug+Bounty+Hunter;Content+Writer;@+ciberfy.es;Active+Learner/Researcher."></a></p>
@@ -17,7 +16,14 @@
    <a href="https://www.zaproxy.org" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/qi5qt4r.png" alt="zap" width="40" height="40"/></a>
    <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:710/0*FvyoEolATs1TVCy9.png" alt="burpsuite" width="40" height="40"/></a>
    <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://icons.veryicon.com/png/System/Captiva/wireshark.png" alt="wireshark" width="40" height="40"/></a>
-   <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/nmap-icon-2048x2048-96jdbf6r.png" alt="nmap" width="40" height="40"/></a>   
+   <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/nmap-icon-2048x2048-96jdbf6r.png" alt="nmap" width="40" height="40"/></a>
+     <a href="https://github.com/digininja/DVWA" target="_blank" rel="noreferrer"><img src="https://dwaconsultants.com/wp-content/uploads/2023/09/B-1.png" alt="dvwa" width="40" height="40"/></a>
+     <a href="https://en.wikipedia.org/wiki/Uncomplicated_Firewall" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/886/886917.png" alt="firewall" width="40" height="40"/></a>
+     <a href="https://suricata.io/" rel="noreferrer"><img src="https://suricata.io/wp-content/uploads/2021/01/cropped-favicon.png" alt="suricata" width="40" height="40"/></a>
+     <a href="https://www.openssh.com/"><img src="https://miro.medium.com/v2/resize:fit:500/1*qxrkbdTVHstTyFog7wXqiA.png" alt="openssh" width="40" height="40"/></a>
+     <a href="https://www.ieee.org/"><img src="https://www.freeiconspng.com/uploads/wifi-icon-png-0.png" alt="wifi" width="40" height="40"/></a>
+
+
  </p>
     
 <p align="center">    
