@@ -17,9 +17,9 @@
   <a href="https://wordpress.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Xafiq/Private-Data/blob/main/Shield-Icons/700/wordpress.png" alt="wordpress" width="51" height="50"/></a>
 </p>
  <p align="center">
-     <a href="https://www.w3.org/xml/" target="_blank"> <img src="https://github.com/Xafiq/Private-Data/blob/main/Shield-Icons/700/xml.png" alt="xml" width="50" height="50"> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/Xafiq/Private-Data/blob/main/Shield-Icons/700/html6.png" alt="html6" width="50" height="50"> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/Xafiq/Private-Data/blob/main/Shield-Icons/700/html5.png" alt="html5" width="50" height="50"> </a>
+     <a href="https://www.xml.com/" target="_blank"> <img src="https://github.com/Xafiq/Private-Data/blob/main/Shield-Icons/700/xml.png" alt="xml" width="50" height="50"> </a>
+  <a href="https://html6.com/" target="_blank"> <img src="https://github.com/Xafiq/Private-Data/blob/main/Shield-Icons/700/html6.png" alt="html6" width="50" height="50"> </a>
+  <a href="http://html5.com/" target="_blank"> <img src="https://github.com/Xafiq/Private-Data/blob/main/Shield-Icons/700/html5.png" alt="html5" width="50" height="50"> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/Xafiq/Private-Data/blob/main/Shield-Icons/700/css.png" alt="css" width="50" height="50"/> </a>
     </p>
   </span>
