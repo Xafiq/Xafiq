@@ -46,9 +46,9 @@
      <a href="https://www.virtualbox.org/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/virtualbox-icon-2048x2048-50ruey7a.png" alt="virtualbox" width="40" height="40"/> </a> 
      <a href="https://www.metasploit.org/"><img src="https://github.com/Xafiq/Private-Data/blob/main/Simple-Icons/metasploit-color.svg" alt="metasploit" width="40" height="40"/></a>
 </p>
-  <a href="https://ciberfy.es"><img width="100%" height="auto" src="https://bit.ly/4dbRu9Z" height="175px"/></a><div align="center"><a href="#"><img height=1 width=9000 src="https://shorturl.at/A6CaJ"></a>
+  <a href="https://ciberfy.es"><img width="100%" height="auto" src="https://github.com/Xafiq/Private-Data/blob/main/Gifs/bg.gif" height="175px"/></a><div align="center"><a href="#"><img height=1 width=9000 src="https://shorturl.at/A6CaJ"></a>
 <details><summary>More...</summary>
   
   
   
-  <p align="center"><img src="https://github.com/demartini/demartini/blob/master/code.gif"></p></details>
+  <p align="center"><img src="https://media.moddb.com/images/downloads/1/256/255461/geek-534947.gif"></p></details>
