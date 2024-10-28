@@ -29,7 +29,7 @@
   </p>
     
 <p align="center">
-  <a href="https://github.com/digininja/DVWA" target="_blank" rel="noreferrer"><img src="https://dwaconsultants.com/wp-content/uploads/2023/09/B-1.png" alt="dvwa" width="40" height="40"/></a>
+  <a href="https://github.com/digininja/DVWA" target="_blank" rel="noreferrer"><img src="https://github.com/digininja/DVWA/blob/master/dvwa/images/logo.png" alt="dvwa" width="50" height="40"/></a>
   <a href="https://suricata.io/" rel="noreferrer"><img src="https://suricata.io/wp-content/uploads/2021/01/cropped-favicon.png" alt="suricata" width="40" height="40"/></a>
      <a href="https://www.openssh.com/"><img src="https://miro.medium.com/v2/resize:fit:500/1*qxrkbdTVHstTyFog7wXqiA.png" alt="openssh" width="40" height="40"/></a>
 <a href="https://www.blogger.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1051/1051242.png" alt="blogger" width="40" height="40"/> </a>
