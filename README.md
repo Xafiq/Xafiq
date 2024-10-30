@@ -55,4 +55,4 @@
           <a href="https://www.openssh.com/"><img src="https://miro.medium.com/v2/resize:fit:500/1*qxrkbdTVHstTyFog7wXqiA.png" alt="openssh" width="40" height="40"/></a>
         <picture><img src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width="50px"></picture>
 </p>
-  <p align="center"><a href="https://ciberfy.es"><img src="https://media.moddb.com/images/downloads/1/256/255461/geek-534947.gif"></a></p></details>
+<p align="center"><a href="https://ciberfy.es"><img src="https://media.moddb.com/images/downloads/1/256/255461/geek-534947.gif"></a></p></details>
