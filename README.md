@@ -34,7 +34,8 @@
      <a href="https://www.openssh.com/"><img src="https://miro.medium.com/v2/resize:fit:500/1*qxrkbdTVHstTyFog7wXqiA.png" alt="openssh" width="40" height="40"/></a>
 <a href="https://www.blogger.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1051/1051242.png" alt="blogger" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a> 
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" alt="linux" width="40" height="40"/></a>
+ <a href="https://www.jira.com/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/jira-icon-2048x2048-nmec2job.png" alt="jira" width="40" height="40"/></a>
+   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" alt="linux" width="40" height="40"/></a>
 <a href="https://www.apple.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Apple_Computer_Logo_rainbow.svg" alt="apple" width="40" height="40"/></a>
    <a href="https://www.windows.com/" target="_blank" rel="noreferrer"><img src="https://mailmeteor.com/logos/assets/PNG/Microsoft_Logo_512px.png" alt="apple" width="40" height="40"/></a>
 </p>
