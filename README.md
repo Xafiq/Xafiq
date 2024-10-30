@@ -37,7 +37,7 @@
    
    
   <a href="https://ciberfy.es"><img width="100%" height="auto" src="https://github.com/Xafiq/Private-Data/blob/main/Gifs/bg.gif" height="175px"/></a><div align="center"><a href="#"><img height=1 width=9000 src="https://shorturl.at/A6CaJ"></a>
-<details><summary>More...</summary>
+<details><summary>Check my Hacking Skills...</summary>
   
   
   <p align="center">
