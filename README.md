@@ -27,9 +27,6 @@
   </p>
     
 <p align="center">
-  <a href="https://github.com/digininja/DVWA" target="_blank" rel="noreferrer"><img src="https://github.com/digininja/DVWA/blob/master/dvwa/images/logo.png" alt="dvwa" width="50" height="40"/></a>
-  <a href="https://suricata.io/" rel="noreferrer"><img src="https://suricata.io/wp-content/uploads/2021/01/cropped-favicon.png" alt="suricata" width="40" height="40"/></a>
-     <a href="https://www.openssh.com/"><img src="https://miro.medium.com/v2/resize:fit:500/1*qxrkbdTVHstTyFog7wXqiA.png" alt="openssh" width="40" height="40"/></a>
 <a href="https://www.blogger.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1051/1051242.png" alt="blogger" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a> 
  <a href="https://www.jira.com/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/jira-icon-2048x2048-nmec2job.png" alt="jira" width="40" height="40"/></a>
@@ -38,8 +35,15 @@
    <a href="https://www.windows.com/" target="_blank" rel="noreferrer"><img src="https://mailmeteor.com/logos/assets/PNG/Microsoft_Logo_512px.png" alt="apple" width="40" height="40"/></a>
 </p>
    
-   <p align="center">
+   
+  <a href="https://ciberfy.es"><img width="100%" height="auto" src="https://github.com/Xafiq/Private-Data/blob/main/Gifs/bg.gif" height="175px"/></a><div align="center"><a href="#"><img height=1 width=9000 src="https://shorturl.at/A6CaJ"></a>
+<details><summary>More...</summary>
+  
+  
+  <p align="center">
          <picture><img src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width="50px"></picture>
+     <a href="https://github.com/digininja/DVWA" target="_blank" rel="noreferrer"><img src="https://github.com/digininja/DVWA/blob/master/dvwa/images/logo.png" alt="dvwa" width="50" height="40"/></a>
+  <a href="https://suricata.io/" rel="noreferrer"><img src="https://suricata.io/wp-content/uploads/2021/01/cropped-favicon.png" alt="suricata" width="40" height="40"/></a>
    <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios_filled/512/228BE6/burp-suite.png" alt="burpsuite" width="40" height="40"/></a>
    <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="wireshark" width="40" height="40"/></a>
      <a href="https://owasp.org/" target="_blank" rel="noreferrer"><img src="https://repository-images.githubusercontent.com/34677782/c00f6a80-8c32-11e9-8c45-ae2e91b28c90" alt="owasp" width="40" height="40"/></a>
@@ -48,11 +52,7 @@
  <a href="https://www.netacad.com/cisco-packet-tracer" target="_blank"> <img src="https://img.icons8.com/ios_filled/512/228BE6/cisco-packet-tracer.png" width="40" height="40"/> </a>
      <a href="https://www.virtualbox.org/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/virtualbox-icon-2048x2048-50ruey7a.png" alt="virtualbox" width="40" height="40"/> </a> 
      <a href="https://www.metasploit.org/"><img src="https://github.com/Xafiq/Private-Data/blob/main/Simple-Icons/metasploit-color.svg" alt="metasploit" width="40" height="40"/></a>
+          <a href="https://www.openssh.com/"><img src="https://miro.medium.com/v2/resize:fit:500/1*qxrkbdTVHstTyFog7wXqiA.png" alt="openssh" width="40" height="40"/></a>
         <picture><img src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width="50px"></picture>
 </p>
-  <a href="https://ciberfy.es"><img width="100%" height="auto" src="https://github.com/Xafiq/Private-Data/blob/main/Gifs/bg.gif" height="175px"/></a><div align="center"><a href="#"><img height=1 width=9000 src="https://shorturl.at/A6CaJ"></a>
-<details><summary>More...</summary>
-  
-  
-  
   <p align="center"><a href="https://ciberfy.es"><img src="https://media.moddb.com/images/downloads/1/256/255461/geek-534947.gif"></a></p></details>
