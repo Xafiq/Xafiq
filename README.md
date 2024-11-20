@@ -29,7 +29,7 @@
 <p align="center">
 <a href="https://www.blogger.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1051/1051242.png" alt="blogger" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a> 
- <a href="https://www.jira.com/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/jira-icon-2048x2048-nmec2job.png" alt="jira" width="40" height="40"/></a>
+ <a href="https://www.jira.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/c09218a1-5400-4fb3-aab9-597a05d7339b" alt="jira" width="40" height="40"/></a>
    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" alt="linux" width="40" height="40"/></a>
 <a href="https://www.apple.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Apple_Computer_Logo_rainbow.svg" alt="apple" width="40" height="40"/></a>
    <a href="https://www.windows.com/" target="_blank" rel="noreferrer"><img src="https://mailmeteor.com/logos/assets/PNG/Microsoft_Logo_512px.png" alt="apple" width="40" height="40"/></a>
@@ -50,7 +50,7 @@
    <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" alt="nmap" width="40" height="40"/></a>
   <a href="https://www.zaproxy.org" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/qi5qt4r.png" alt="zap" width="40" height="40"/></a>
  <a href="https://www.netacad.com/cisco-packet-tracer" target="_blank"> <img src="https://img.icons8.com/ios_filled/512/228BE6/cisco-packet-tracer.png" width="40" height="40"/> </a>
-     <a href="https://www.virtualbox.org/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/virtualbox-icon-2048x2048-50ruey7a.png" alt="virtualbox" width="40" height="40"/> </a> 
+     <a href="https://www.virtualbox.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/VirtualBox_2024.png/110px-VirtualBox_2024.png" alt="virtualbox" width="40" height="40"/> </a> 
      <a href="https://www.metasploit.org/"><img src="https://github.com/Xafiq/Private-Data/blob/main/Simple-Icons/metasploit-color.svg" alt="metasploit" width="40" height="40"/></a>
           <a href="https://www.openssh.com/"><img src="https://miro.medium.com/v2/resize:fit:500/1*qxrkbdTVHstTyFog7wXqiA.png" alt="openssh" width="40" height="40"/></a>
         <picture><img src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width="50px"></picture>
