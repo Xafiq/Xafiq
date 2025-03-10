@@ -23,7 +23,7 @@
   </span>
 
   <p align="center">
-    <a href="https://github.com/Xafiq/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=00FF00&size=40&center=true&vCenter=true&width=800&height=150&lines=HELLO+WORLD!;I'm+Xafiq!;Marhaba!;Cybersecurity+Analyst;Student+@+4Geeks+Academy;Bug+Hunter;Content+Writer+@+ciberfy.es;Active+Solution+Searcher."></a>
+    <a href="https://github.com/Xafiq/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=00FF00&size=40&center=true&vCenter=true&width=800&height=150&lines=HELLO+WORLD!;I'm+Xafiq!;Marhaba!;Check+my+forensic+tool;4n6;Cybersecurity+Specialist;Bug+Hunter;Content+Writer+@+ciberfy.es;Active+Solution+Searcher."></a>
   </p>
     
 <p align="center">
